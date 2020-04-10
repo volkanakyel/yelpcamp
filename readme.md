@@ -1,6 +1,6 @@
 # YelpCamp
 
-  Node.js Application for creating, updating and deleting campgrounds.
+\n Node.js Application for creating, updating and deleting campgrounds.
   Package used :
   express : routes management
   mongoose : database
